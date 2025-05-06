@@ -1,0 +1,6 @@
+let b =prompt("your name")
+let a =prompt("your number")
+let c =prompt("your age")
+let d =prompt("your adress")
+let e =prompt("your second name")
+console.log( `your name ${a} /n ${b}  ${c}`)
